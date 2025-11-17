@@ -2,7 +2,6 @@
 
 <img align="right" height="250" src="https://private-user-images.githubusercontent.com/193749775/515373486-0bfa56b9-bfbc-401e-9ae1-51b6a20f64d4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0MTM1NTMsIm5iZiI6MTc2MzQxMzI1MywicGF0aCI6Ii8xOTM3NDk3NzUvNTE1MzczNDg2LTBiZmE1NmI5LWJmYmMtNDAxZS05YWUxLTUxYjZhMjBmNjRkNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExN1QyMTAwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yN2JmZGIyMjMyMDFjYzlmZThkMmY0MDk0YTJmYTc4ZDA0MzJlY2FhM2NkZmJjMTE5YzQ2YjQ2MmYzYjcyYzAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OthHh0z7suOI1c0PH73Zyg3__PUFw2Hex_UIm6qJmX4"  />
 
-
 <div align="center">
 
   <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hello Geeks  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
@@ -23,7 +22,6 @@
   </a>
 </div>
 
-
 <hr>
 
 <h3 align="left">👨‍💻 About Me</h3>
@@ -33,7 +31,6 @@
   <p>🔭 I’m currently working on: <a href="https://github.com/YuriMandina/Painel_Precos_DisplayDigital" target="_blank">Painel_Precos_DisplayDigital</a>  </p
   <p>🌱 I’m currently learning Python and Javascript </p>
   <p>⚡ In my free time I play guitar, sing and train calisthenics 🎸🎤🤸🏻‍♂️ </p>
-
 
 <hr>
 
@@ -45,24 +42,7 @@
 
 <h3 align="left">⚙️ Tech Stack</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-</div>
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,flask,docker)](https://skillicons.dev)
 
 <hr>
 
