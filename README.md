@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="209" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHZ6dWtpM284ZnV1Z2tkMXA0bW84dzMwbDVubXJsNGFyOGExM3libSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AdZQQQFGjn2PLArsu3/giphy.gif"  />
+<img align="right" height="209" src="https://private-user-images.githubusercontent.com/193749775/515340222-5dbf9627-4feb-4f56-b863-13e38f6e0398.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0MDg2MDUsIm5iZiI6MTc2MzQwODMwNSwicGF0aCI6Ii8xOTM3NDk3NzUvNTE1MzQwMjIyLTVkYmY5NjI3LTRmZWItNGY1Ni1iODYzLTEzZTM4ZjZlMDM5OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExN1QxOTM4MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MDkyNzY1NGFkYjI1NWMzNTgzMmM4N2UyNjI0YzgzNmQ3NjM1MTZmNDMxYjU1YTBkNDBjYTk1NTUxNTg2ZmZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.8dIsQIROJ4sLi0jb8NfX4dCNVTZCNCGMS6c7wAXxpkk"  />
 
 ###
 
@@ -27,7 +27,12 @@
 
 ###
 
-<h4 align="left">I work as an administrative analyst transitioning to a career in technology.<br>I'm studying Systems Analysis and Development and focusing on learning full-stack development to be fully capable of working across all layers of development.<br><br>🔭 I’m currently working on: <a href="https://github.com/YuriMandina/Painel_Precos_DisplayDigital" target="_blank">Painel_Precos_DisplayDigital</a><br><br><br>🌱 I’m currently learning Python and Javascript<br><br>⚡ In my free time I play guitar, sing and train calisthenics 🎸🎤🤸🏻‍♂️</h4>
+  <p>I work as an administrative analyst transitioning to a career in technology.</p>
+  <p>I'm studying Systems Analysis and Development and focusing on learning full-stack development to be fully capable of working across all layers of development.  </p>
+  <p>🔭 I’m currently working on: <a href="https://github.com/YuriMandina/Painel_Precos_DisplayDigital" target="_blank">Painel_Precos_DisplayDigital</a>  </p
+  <p>🌱 I’m currently learning Python and Javascript </p>
+  <p>⚡ In my free time I play guitar, sing and train calisthenics 🎸🎤🤸🏻‍♂️ </p>
+
 
 ###
 
@@ -35,7 +40,7 @@
 
 ###
 
-<h4 align="left">Windows  |  WSL  |  Chrome  |  VSCode  PYCHARM</h4>
+<p>Windows  |  WSL  |  Chrome  |  VSCode | PYCHARM</p>
 
 ###
 
@@ -48,13 +53,14 @@
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css logo"  />
   <img width="35" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
-  <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
   <img width="35" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+  <img width="35" />
 </div>
 
 ###
