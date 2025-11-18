@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="250" src="https://private-user-images.githubusercontent.com/193749775/515373486-0bfa56b9-bfbc-401e-9ae1-51b6a20f64d4.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjM0MTM1NTMsIm5iZiI6MTc2MzQxMzI1MywicGF0aCI6Ii8xOTM3NDk3NzUvNTE1MzczNDg2LTBiZmE1NmI5LWJmYmMtNDAxZS05YWUxLTUxYjZhMjBmNjRkNC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTExN1QyMTAwNTNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yN2JmZGIyMjMyMDFjYzlmZThkMmY0MDk0YTJmYTc4ZDA0MzJlY2FhM2NkZmJjMTE5YzQ2YjQ2MmYzYjcyYzAzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.OthHh0z7suOI1c0PH73Zyg3__PUFw2Hex_UIm6qJmX4"  />
+<img align="right" height="250" src="https://github.com/user-attachments/assets/0bfa56b9-bfbc-401e-9ae1-51b6a20f64d4"  />
 
 <div align="center">
 
