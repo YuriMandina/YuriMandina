@@ -4,11 +4,11 @@
 
 <div align="center">
 
-  <h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  Hello Geeks  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h3>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Notch&size=24&pause=500&center=true&vCenter=true&width=131&lines=Hello+Geeks)](https://git.io/typing-svg) <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
   ###
 
-  <h3>Welcome</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Stack+Sans+Notch&size=24&pause=500&center=true&vCenter=true&width=131&lines=Welcome)](https://git.io/typing-svg)
 
   <img width="50" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" >
 
