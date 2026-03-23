@@ -32,11 +32,11 @@
 
 ### 👨‍💻 Sobre Mim
 
-Sou um Assistente Administrativo (Ponto Focal Operacional e Desenvolvedor Cidadão) estudando e aprendendo sobre **Desenvolvimento de Software** e nas horas vagas estudo sobre **Dados**. Com mais de 7 anos de experiência resolvendo problemas de negócios, estou agora canalizando essa lógica e eficiência para o desenvolvimento full-stack.
+Sou um **Gerente Administrativo e Desenvolvedor Cidadão** estudando e aprendendo sobre **Desenvolvimento de Software** e nas horas vagas estudo sobre **Ciência de Dados**. Com mais de 7 anos de experiência resolvendo problemas de negócios, estou agora canalizando essa lógica e eficiência para o desenvolvimento full-stack.
 
 Meu foco é construir aplicações robustas e escaláveis que unam as necessidades administrativas às soluções técnicas.
 
-- 🔭 **Projeto Atual:** Desenvolvendo <a href="https://github.com/YuriMandina/Painel_Precos_DisplayDigital" target="_blank">**Painel De Preços DisplayDigital**</a>
+- 🔭 **Projeto Atual:** Desenvolvendo <a href="https://github.com/YuriMandina/ERP-Distribuicao-de-Carnes" target="_blank">**ERP Boi Delivery**</a>
 - 🌱 **Stack Principal:** Especializando-me nos ecossistemas **Python** e **JavaScript**.
 - 🎯 **Objetivo:** Dominar arquitetura full-stack e entregar software pronto para produção.
 - ⚡ **Offline:** Toco violão, canto e treino calistenia para manter mente e corpo afiados. 🎸🎤🤸🏻‍♂️
